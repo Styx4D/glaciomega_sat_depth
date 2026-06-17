@@ -1,3 +1,5 @@
+<div align="center">
+
 # GlacioMega
 # Surveying surface elevation change from Sentinel-2 monocular optical satellite time series
 
@@ -7,11 +9,9 @@
 
 [[Paper]](#) · [[Data]](#) · [[Models]](#pretrained-models)
 
----
+![GlacioMega overview](figure_GA.svg)
 
-![GlacioMega overview](image0)
-
----
+</div>
 
 ## Overview
 
