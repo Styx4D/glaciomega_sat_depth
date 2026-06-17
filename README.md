@@ -9,7 +9,7 @@
 
 [[Paper]](#) · [[Data]](#) · [[Models]](#pretrained-models)
 
-![GlacioMega overview](figure_GA.svg)
+![GlacioMega overview](fig/figure_GA.svg)
 
 </div>
 
