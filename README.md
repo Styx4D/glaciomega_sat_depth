@@ -7,7 +7,7 @@
 
 > *Styx4D, Le Bourget-du-Lac, France — CNES, Toulouse, France*
 
-[[Paper]](#) · [[Data]](#) · [[Models]](#pretrained-models)
+[[Paper]](#) · [[Data]](https://zenodo.org/records/20491723?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQwZWM3NzczLTE1ODUtNGU5Ny05YmI1LTcwZGExYzcwZmQyYiIsImRhdGEiOnt9LCJyYW5kb20iOiJmMmY4YTQ1YmE5OTVmNDk2YjE5YzcwYWUyNjkwYTBhNCJ9.89eHlBay9yl0il6dQfgiB8-QJY5rpSZdqlsE_bkpc1jJLAJEAf5-KdKU0CDvJTOztEALC1AVdInPhNgh3GwPVw) · [[Models]](#pretrained-models)
 
 ![GlacioMega overview](fig/figure_GA.svg)
 
