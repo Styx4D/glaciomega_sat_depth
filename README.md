@@ -7,7 +7,7 @@
 
 > *Styx4D, Le Bourget-du-Lac, France — CNES, Toulouse, France*
 
-[[Paper]](#) · [[Data]](https://zenodo.org/records/20491723?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQwZWM3NzczLTE1ODUtNGU5Ny05YmI1LTcwZGExYzcwZmQyYiIsImRhdGEiOnt9LCJyYW5kb20iOiJmMmY4YTQ1YmE5OTVmNDk2YjE5YzcwYWUyNjkwYTBhNCJ9.89eHlBay9yl0il6dQfgiB8-QJY5rpSZdqlsE_bkpc1jJLAJEAf5-KdKU0CDvJTOztEALC1AVdInPhNgh3GwPVw) · [[Models]](#pretrained-models)
+[[Paper]](#) · [[Data]](https://zenodo.org/records/20491723) · [[Models]](#pretrained-models)
 
 ![GlacioMega overview](fig/figure_GA.svg)
 
@@ -27,15 +27,15 @@ Three checkpoints are available, covering monotemporal and multi-temporal use ca
 
 | Model | Description | Download |
 |---|---|---|
-| **ConvNextDPT** | Monotemporal backbone. Use standalone or as encoder for multi-temporal variants. | [link](#) |
-| **Temporal DPT (TPE)** | Multi-temporal model. Best validation RMSE on the benchmark dataset. | [link](#) |
-| **Temporal DPT (MTPE)** | Multi-temporal model. Best accuracy on the GlacioClim glacier validation set. | [link](#) |
+| **ConvNextDPT** | Monotemporal backbone. Use standalone or as encoder for multi-temporal variants. | [link](https://zenodo.org/records/22125346/files/convNext_base_DPT_finetune.pth?download=1) |
+| **Temporal DPT (TPE)** | Multi-temporal model. Best validation RMSE on the benchmark dataset. | [link](https://zenodo.org/records/22125346/files/convNext_base_DPT_multitemp_SimpleRelativePos.pth?download=1) |
+| **Temporal DPT (MTPE)** | Multi-temporal model. Best accuracy on the GlacioClim glacier validation set. | [link](https://zenodo.org/records/22125346/files/convNext_base_DPT_multitemp_MultiRelativePos.pth?download=1) |
 
 ---
 
 ## Data
 
-Qualitative analysis data and the GlacioClim validation set used in the paper are available at: **[XXXX]**
+Qualitative analysis data and the GlacioClim validation set used in the paper are available **[here](https://zenodo.org/records/20491723)**
 
 ---
 
