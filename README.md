@@ -71,17 +71,3 @@ For commercial use, please [contact us](mailto:styx@styx.earth).
 ## Acknowledgments
 This work was supported by the Centre National d’Etudes Spatiales (CNES)  through an R\&T mechanism on a 'data hybridization' challenge.
 
----
-
-## Citation
-
-If you use GlacioMega in your research, please cite:
-
-```bibtex
-@article{baratier2025glaciomega,
-  title     = {Surveying surface elevation change from {Sentinel-2} monocular optical satellite time series},
-  author    = {Baratier, Alexandre and Lemaire, Pierre and Derksen, Dawa and Urruty, Benoit and Berthet, Johan},
-  journal   = {Remote Sensing of Environment},
-  year      = {2025},
-}
-```
